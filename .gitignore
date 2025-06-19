@@ -23,6 +23,7 @@ odoo/addons/base/maintenance
 # window installation config file
 /odoo.conf
 
+temp_auto_push.bat
 # generated for windows installer?
 install/win32/*.bat
 install/win32/meta.py
@@ -49,3 +50,5 @@ package.json
 /man/
 /share/
 /src/
+temp_interactive_push.bat
+branch_structure.json
